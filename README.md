@@ -1,7 +1,8 @@
 # Support-Vector-Machine
-~ It is the implementation from scratch of Support vector machine on the famous Iris and Digits datasets of Sklearn module.
+• Implementation of Support vector machine on famous Iris and Digits datasets of Scikit-learn module.
 
-~ With Visualisation of the datasets and features.
+• Trained the SVM model using gradient descent method to minimise regularised hinge loss function.
 
-~ With calculations of all the evaluation matrics like Accuracy, Precision, F1-Score and Confusion matrix.
+• Visualised the datasets w.r.t features and calculated evaluation metrics and plotted confusion matrix.
+
 
